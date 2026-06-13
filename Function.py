@@ -9,8 +9,6 @@ greet()
 # Hello World
 
 
----
-
 # 2. Function with Parameters
 
 def add(a, b):
@@ -22,7 +20,6 @@ add(5, 3)
 # 8
 
 
----
 
 # 3. Function with Return Value
 
@@ -36,7 +33,6 @@ print(result)
 # 20
 
 
----
 
 # 4. Function with Default Parameter
 
@@ -51,7 +47,6 @@ student("Sneha")
 # Hello Sneha
 
 
----
 
 # 5. Function with Multiple Arguments
 
@@ -64,7 +59,6 @@ total(10, 20, 30)
 # 60
 
 
----
 
 # 6. Keyword Arguments
 
@@ -77,7 +71,6 @@ info(age=21, name="Sneha")
 # Sneha 21
 
 
----
 
 # 7. Lambda Function
 
@@ -89,7 +82,6 @@ print(square(6))
 # 36
 
 
----
 
 # 8. Function Calling Another Function
 
@@ -106,7 +98,6 @@ show()
 # 5
 
 
----
 
 # 9. Function with List
 
