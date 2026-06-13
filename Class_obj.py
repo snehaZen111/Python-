@@ -11,7 +11,6 @@ print(obj.name)
 # Sneha
 
 
----
 
 # 2. Class with Multiple Objects
 
@@ -32,7 +31,6 @@ print(obj2.name)
 # Riya
 
 
----
 
 # 3. Class with Constructor (__init__)
 
@@ -51,7 +49,6 @@ print(obj.age)
 # 21
 
 
----
 
 # 4. Class with Method
 
@@ -68,8 +65,6 @@ obj.show()
 # Output:
 # Name is Sneha
 
-
----
 
 # 5. Multiple Objects with Method
 
@@ -91,8 +86,6 @@ obj2.show()
 # Riya
 
 
----
-
 # 6. Object Updating Value
 
 class Student:
@@ -109,7 +102,6 @@ print(obj.name)
 # Priya
 
 
----
 
 # 7. Class with Multiple Attributes
 
