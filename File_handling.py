@@ -10,8 +10,6 @@ print("File Created and Data Written")
 # File Created and Data Written
 
 
----
-
 # 2. Read File
 
 file = open("demo.txt", "r")
@@ -24,7 +22,6 @@ print(content)
 # Hello Python File Handling
 
 
----
 
 # 3. Append Data in File
 
@@ -37,8 +34,6 @@ print("Data Appended")
 # Output:
 # Data Appended
 
-
----
 
 # 4. Read File Line by Line
 
@@ -54,8 +49,6 @@ file.close()
 # This is new line added
 
 
----
-
 # 5. Using with open() (Best Method)
 
 with open("demo.txt", "r") as file:
@@ -66,7 +59,6 @@ with open("demo.txt", "r") as file:
 # This is new line added
 
 
----
 
 # 6. Read File into List
 
@@ -80,7 +72,6 @@ print(lines)
 # ['Hello Python File Handling\n', 'This is new line added']
 
 
----
 
 # 7. Check File Handling (Try Except)
 
@@ -95,7 +86,6 @@ except FileNotFoundError:
 # File Not Found
 
 
----
 
 # 8. Write Numbers in File
 
@@ -112,7 +102,6 @@ print("Numbers Written")
 # Numbers Written
 
 
----
 
 # 9. Read First Line Only
 
@@ -124,7 +113,6 @@ file.close()
 # Hello Python File Handling
 
 
----
 
 # 10. File Delete Concept (import os)
 
