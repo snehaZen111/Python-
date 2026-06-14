@@ -14,7 +14,6 @@ obj.show()
 # Sneha
 
 
----
 
 # 2. Encapsulation using Getter Method
 
@@ -32,8 +31,6 @@ print(obj.get_name())
 # Output:
 # Sneha
 
-
----
 
 # 3. Encapsulation using Setter Method
 
@@ -56,7 +53,6 @@ print(obj.get_name())
 # Sneha
 
 
----
 
 # 4. Encapsulation with Private Data
 
@@ -75,7 +71,6 @@ obj.show_balance()
 # 5000
 
 
----
 
 # 5. Accessing Private Variable Directly
 
