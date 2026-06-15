@@ -31,7 +31,6 @@ obj2.sound()
 # Cat meows
 
 
----
 
 # Abstract Class with Constructor
 
