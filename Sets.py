@@ -8,7 +8,6 @@ print(fruits)
 # {'Apple', 'Banana', 'Mango'}
 
 
----
 
 # 2. Add Element to Set
 
@@ -22,7 +21,6 @@ print(fruits)
 # {'Apple', 'Banana', 'Mango'}
 
 
----
 
 # 3. Remove Element from Set
 
@@ -36,7 +34,7 @@ print(fruits)
 # {'Apple', 'Mango'}
 
 
----
+
 
 # 4. Loop Through Set
 
@@ -51,7 +49,6 @@ for item in fruits:
 # Mango
 
 
----
 
 # 5. Check Element in Set
 
@@ -64,7 +61,6 @@ if "Banana" in fruits:
 # Found
 
 
----
 
 # 6. Union of Two Sets
 
@@ -77,7 +73,6 @@ print(A.union(B))
 # {1, 2, 3, 4, 5}
 
 
----
 
 # 7. Intersection of Two Sets
 
@@ -90,7 +85,6 @@ print(A.intersection(B))
 # {2, 3}
 
 
----
 
 # 8. Difference of Two Sets
 
@@ -103,7 +97,7 @@ print(A.difference(B))
 # {1}
 
 
----
+
 
 # 9. Length of Set
 
@@ -115,7 +109,6 @@ print(len(numbers))
 # 4
 
 
----
 
 # 10. Clear Set
 
